@@ -1,2 +1,2 @@
 # demo-first
-This is a Demo for Git 
+This is a Demo for Git & Github learning
